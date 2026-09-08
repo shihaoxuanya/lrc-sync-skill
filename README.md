@@ -184,6 +184,4 @@ lrc-sync-skill/
 版本：`1.0.0`  
 建议 Topics：`agent-skills`、`codex`、`lrc`、`lyrics`、`audio`、`alignment`、`offline`、`python`
 
-独立仓库：[shihaoxuanya/lrc-sync-skill](https://github.com/shihaoxuanya/lrc-sync-skill)。所有源码、安装说明与测试都在本仓库中，不依赖作者的其他项目。
-
 格式参考：[Agent Skills 规范](https://agentskills.io/specification)。许可证：[MIT](LICENSE)。
