@@ -185,3 +185,5 @@ lrc-sync-skill/
 建议 Topics：`agent-skills`、`codex`、`lrc`、`lyrics`、`audio`、`alignment`、`offline`、`python`
 
 格式参考：[Agent Skills 规范](https://agentskills.io/specification)。许可证：[MIT](LICENSE)。
+## 贡献者
+感谢 [rosyrongrong](https://github.com/rosyrongrong) 参与项目共创。
