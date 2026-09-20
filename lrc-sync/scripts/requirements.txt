@@ -1,0 +1,6 @@
+# Optional: only analyze_audio.py requires these packages.
+# lrc_tool.py and the HTML player use the standard library / browser APIs.
+numpy>=1.24,<3
+scipy>=1.10,<2
+matplotlib>=3.7,<4
+mutagen>=1.47,<2

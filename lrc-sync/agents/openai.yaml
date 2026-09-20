@@ -1,0 +1,4 @@
+interface:
+  display_name: "LRC 歌词校时"
+  short_description: "依据真实录音制作 LRC，生成可逐句试听、微调和导出的离线校对页。"
+  default_prompt: "请使用 $lrc-sync，根据我提供的实际音频和歌词制作或修复 LRC，并提供离线试听校对页；不要猜测或均分时间戳。"

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "title": "提示音校对示例",
+  "artist": "本地合成提示音",
+  "version": "非歌曲示例，仅用于测试页面",
+  "duration": 12.0,
+  "metadata": {},
+  "entries": [
+    {"time": 0.0, "text": "", "verified": false, "evidence": "synthetic fixture"},
+    {"time": 1.0, "text": "第一声提示音", "verified": false, "evidence": "synthetic pulse at 1.00 s"},
+    {"time": 4.0, "text": "第二声提示音", "verified": false, "evidence": "synthetic pulse at 4.00 s"},
+    {"time": 7.0, "text": "第三声提示音", "verified": false, "evidence": "synthetic pulse at 7.00 s"},
+    {"time": 8.0, "text": "", "verified": false, "evidence": "synthetic clear cue"}
+  ]
+}
